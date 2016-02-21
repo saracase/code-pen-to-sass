@@ -11,7 +11,7 @@
 
 .fa {
   font-size: 3em;
-  line-height: 22px !important;
+  line-height: 22px;
 }
 
 dropdown {
@@ -21,7 +21,7 @@ dropdown {
 
 dropdown label, dropdown ul li {
   display: block;
-  width: 200px;
+  width: 1440px;
   background: #ECF0F1;
   padding: 15px 20px;
 }
