@@ -59,6 +59,11 @@ dropdown input:checked ~ ul{
     color: black;
 }
 
+.footer {
+    color: $secondary;
+    font-family: $lato;
+}
+
 @for $i from 1 through length($primary) {
   dropdown ul li:nth-child(#{$i}) {
     .fa{

@@ -68,6 +68,11 @@ dropdown input:checked ~ ul {
   color: black;
 }
 
+.footer {
+  color: #ECF0F1;
+  font-family: Lato, sans-serif;
+}
+
 dropdown ul li:nth-child(1) .fa {
   color: #3498db;
 }
